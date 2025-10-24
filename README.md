@@ -1,7 +1,7 @@
 # Olympic Games Exploratory Data Analysis (EDA) Project
 
 This project provides an in-depth exploratory data analysis (EDA) of the modern Olympic Games from Athens 1896 to Rio 2016. The goal of the project is to uncover insights about medal distribution, athlete statistics, and country performance across different sports.
-App Link : https://olmpic.streamlit.app/
+
 
 https://github.com/user-attachments/assets/f14b4e72-7373-425e-9f1a-11542a693e10
 
